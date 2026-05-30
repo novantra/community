@@ -54,4 +54,4 @@ Novantra is a governed operations platform for regulated industries. Configure a
 - Documentation: [docs.novantra.io](https://docs.novantra.io)
 - LinkedIn: [novantra-io](https://www.linkedin.com/company/novantra-io)
 
-For sales, partnership, or enterprise questions, reach us at hello@novantra.io.
+For sales, partnership, or enterprise questions, reach us at support@novantra.io.
